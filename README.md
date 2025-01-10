@@ -19,9 +19,9 @@ Gruppe:
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir entwickeln ein Mehrspieler-UNO-Spiel, das es Spielern ermöglicht, sich in einer Lobby zu verbinden und eine Runde UNO nach den klassischen Regeln zu spielen.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+In diesem Projekt setzen wir die klassische UNO-Spielmechanik in einer Webanwendung um, bei der mehrere Spieler über eine Online-Verbindung in Echtzeit interagieren können. Unser Ziel ist es, eine benutzerfreundliche Plattform zu schaffen, die Echtzeit-Updates und eine korrekte Regelumsetzung ermöglicht. Dabei lernen wir, ein Backend mit sauberer Architektur zu entwerfen, REST-APIs zu entwickeln, MongoDB für Datenverwaltung einzusetzen und Frontend und Backend effizient zu verknüpfen. Zudem möchten wir unser Verständnis von Programmierprinzipien wie Modularität, Validierung und Fehlerbehandlung vertiefen.
 
 ### 1.2 User Stories
 
