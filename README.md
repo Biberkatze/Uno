@@ -1,17 +1,22 @@
 # Projekt-Dokumentation
 
 Gruppe:
+
 - Cedric Tuma
 - Liam Koch
 - Robin Sacher
 - Damian Müller
 - Nikola Manojlovic
-  
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-| 10.01.2025      | 0.0.1   | Heute haben wir eine unsere Projektidee erarbeitet und den Projektantrag ausgefüllt, sowie abgeben und mit der Projektdokumentation angefangen. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+
+| Datum      | Version | Zusammenfassung                                                                                                                                 |
+| ---------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10.01.2025 | 0.0.1   | Heute haben wir eine unsere Projektidee erarbeitet und den Projektantrag ausgefüllt, sowie abgeben und mit der Projektdokumentation angefangen. |
+| 17.01.2025 | 0.2.0   |                                                                                                                                                 |
+| 24.01.2025 | 0.3.0   |                                                                                                                                                 |
+| 31.01.2025 | 0.4.0   |                                                                                                                                                 |
+| 21.02.2025 | 0.5.0   |                                                                                                                                                 |
+| 28.02.2025 | 0.6.0   |                                                                                                                                                 |
+| 07.03.2025 | 1.0.0   |                                                                                                                                                 |
 
 ## 1 Informieren
 
@@ -23,12 +28,12 @@ In diesem Projekt setzen wir die klassische UNO-Spielmechanik in einer Webanwend
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| US-№ | Verbindlichkeit | Typ | Beschreibung                       |
+| ---- | --------------- | --- | ---------------------------------- |
+| 1    |                 |     | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| ...  |                 |     |                                    |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: _Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️_.
 
 ### 1.3 Testfälle
 
@@ -50,7 +55,7 @@ In diesem Projekt setzen wir die klassische UNO-Spielmechanik in einer Webanwend
 | 1.A  |       |           |              |               |
 | ...  |       |           |              |               |
 
-Total: 
+Total:
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
