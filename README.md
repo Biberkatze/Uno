@@ -28,10 +28,18 @@ In diesem Projekt setzen wir die klassische UNO-Spielmechanik in einer Webanwend
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ | Beschreibung                       |
-| ---- | --------------- | --- | ---------------------------------- |
-| 1    |                 |     | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |     |                                    |
+| US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                 |
+| ---- | --------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Muss            | Randbedingung | Als ein Entwickler möchte ich, dass mindestens .Net Version 7.0 oder höher verewendet wird, damit eine aktuelle Version vewendet wird.       |
+| 2    | Muss            | Randbedingung | Als ein Enwickler möchte ich, dass das Frontend mit HTML, CSS und Java Script umgesetzt wird, damit das Endprofukt eine Webseite ist.        |
+| 3    | Muss            | Randbedingung | Als ein Entwickler möchte ich, dass als zentrale Datenbank, MongoDB Atlas verwendet wird, damit alle Teammitglieder darauf zugreifen können. |
+| 4    | Muss            | Qualität      | Als ein BEnutzer möchte ich, dass die Webseite als Single Page Application umgesetzt wird, damit die Ladezeit gering ist.                    |
+| 5    | Muss            | Funktional    |                                                                                                                                              |
+| 6    | Muss            | Funktional    |                                                                                                                                              |
+| 7    | Muss            | Funktional    |                                                                                                                                              |
+| 8    | Muss            | Funktional    |                                                                                                                                              |
+| 9    | Muss            | Funktional    |                                                                                                                                              |
+| 10   | Muss            | Funktional    |                                                                                                                                              |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: _Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️_.
 
