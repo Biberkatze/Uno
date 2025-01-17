@@ -42,7 +42,8 @@ In diesem Projekt setzen wir die klassische UNO-Spielmechanik in einer Webanwend
 | 10   | Muss            | Funktional    | Als Benutzer möchte ich, dass mir Karten ausgeteilt werden wenn das Spiel startet, damit ich ein Spiel spielen kann.                         |
 | 11   | Muss            | Funktional    | Als Benutzer möchte ich, dass ich nur Karten legen kann die nach den Regeln gelegt werden können, damit ich ein Spiel spielen kann, dass nicht inkonsistent ist.|
 | 12   | Muss            | Funktional    | Als Benutzer möchte ich, dass der erste Spieler welcher keine Karte mehr hat gewonnen hat, damit man ein Spiel gewinnen kann.                |
-| 13   | Muss            | Funktional    | Als Benutzer möchte ich, dass die Webseite online zugänglich ist, damit ich es spielen kann.                                                 |
+| 13   | Muss            | Funktional    | Als Entwickler möchte ich, dass der Spielstand vom Spiel gespeichtert wird, damit man weiss welche Züge der Spieler gemacht hat.             |
+| 14   | Muss            | Funktional    | Als Benutzer möchte ich, dass die Webseite online zugänglich ist, damit ich es spielen kann.                                                 |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: _Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️_.
 
