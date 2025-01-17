@@ -28,31 +28,36 @@ In diesem Projekt setzen wir die klassische UNO-Spielmechanik in einer Webanwend
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                 |
-| ---- | --------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Muss            | Randbedingung | Als ein Entwickler möchte ich, dass mindestens .Net Version 7.0 oder höher verewendet wird, damit eine aktuelle Version vewendet wird.       |
-| 2    | Muss            | Randbedingung | Als ein Enwickler möchte ich, dass das Frontend mit HTML, CSS und Java Script umgesetzt wird, damit das Endprofukt eine Webseite ist.        |
-| 3    | Muss            | Randbedingung | Als ein Entwickler möchte ich, dass als zentrale Datenbank, MongoDB Atlas verwendet wird, damit alle Teammitglieder darauf zugreifen können. |
-| 4    | Muss            | Qualität      | Als ein Benutzer möchte ich, dass die Webseite als Single Page Application umgesetzt wird, damit die Ladezeit gering ist.                    |
-| 5    | Muss            | Funktional    | Als Benutzer möchte ich, dass ich eine Gruppe/Raum erstellen kann in dem ich mit anderen Spielern spielen kann, damit ich nicht alleine Spiele|
-| 6    | Muss            | Funktional    | Als Benutzer möchte ich, dass ich mir einen Benutzername für das Spiel geben kann, damit ich weiss wer ich bin.                              |
-| 7    | Muss            | Funktional    | Als Benutzer möchte ich, dass ich ein Kartenspiel in der Gruppe/Raum spielen kann, damit ich etwas spielen kann.                             |
-| 8    | Muss            | Funktional    | Als Entwickler möchte ich, dass alle Daten in der MongoDB-Datenbank gespeichert werden.                                                      |
-| 9    | Muss            | Funktional    | Als Entwickler möchte ich, dass das Frontend die Daten für ein Spiel über das Backend holt.                                                  |
-| 10   | Muss            | Funktional    | Als Benutzer möchte ich, dass mir Karten ausgeteilt werden wenn das Spiel startet, damit ich ein Spiel spielen kann.                         |
-| 11   | Muss            | Funktional    | Als Benutzer möchte ich, dass ich nur Karten legen kann die nach den Regeln gelegt werden können, damit ich ein Spiel spielen kann, dass nicht inkonsistent ist.|
-| 12   | Muss            | Funktional    | Als Benutzer möchte ich, dass der erste Spieler welcher keine Karte mehr hat gewonnen hat, damit man ein Spiel gewinnen kann.                |
-| 13   | Muss            | Funktional    | Als Entwickler möchte ich, dass der Spielstand vom Spiel gespeichtert wird, damit man weiss welche Züge der Spieler gemacht hat.             |
-| 14   | Muss            | Funktional    | Als Benutzer möchte ich, dass die Webseite online zugänglich ist, damit ich es spielen kann.                                                 |
+| US-№ | Verbindlichkeit | Typ           | Beschreibung                                                                                                                                                     |
+| ---- | --------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Muss            | Randbedingung | Als ein Entwickler möchte ich, dass mindestens .Net Version 7.0 oder höher verewendet wird, damit eine aktuelle Version vewendet wird.                           |
+| 2    | Muss            | Randbedingung | Als ein Enwickler möchte ich, dass das Frontend mit HTML, CSS und Java Script umgesetzt wird, damit das Endprofukt eine Webseite ist.                            |
+| 3    | Muss            | Randbedingung | Als ein Entwickler möchte ich, dass als zentrale Datenbank, MongoDB Atlas verwendet wird, damit alle Teammitglieder darauf zugreifen können.                     |
+| 4    | Muss            | Qualität      | Als ein Benutzer möchte ich, dass die Webseite als Single Page Application umgesetzt wird, damit die Ladezeit gering ist.                                        |
+| 5    | Muss            | Funktional    | Als Benutzer möchte ich, dass ich eine Gruppe/Raum erstellen kann in dem ich mit anderen Spielern spielen kann, damit ich nicht alleine Spiele                   |
+| 6    | Muss            | Funktional    | Als Benutzer möchte ich, dass ich mir einen Benutzername für das Spiel geben kann, damit ich weiss wer ich bin.                                                  |
+| 7    | Muss            | Funktional    | Als Benutzer möchte ich, dass ich ein Kartenspiel in der Gruppe/Raum spielen kann, damit ich etwas spielen kann.                                                 |
+| 8    | Muss            | Funktional    | Als Entwickler möchte ich, dass alle Daten in der MongoDB-Datenbank gespeichert werden.                                                                          |
+| 9    | Muss            | Funktional    | Als Entwickler möchte ich, dass das Frontend die Daten für ein Spiel über das Backend holt.                                                                      |
+| 10   | Muss            | Funktional    | Als Benutzer möchte ich, dass mir Karten ausgeteilt werden wenn das Spiel startet, damit ich ein Spiel spielen kann.                                             |
+| 11   | Muss            | Funktional    | Als Benutzer möchte ich, dass ich nur Karten legen kann die nach den Regeln gelegt werden können, damit ich ein Spiel spielen kann, dass nicht inkonsistent ist. |
+| 12   | Muss            | Funktional    | Als Benutzer möchte ich, dass der erste Spieler welcher keine Karte mehr hat gewonnen hat, damit man ein Spiel gewinnen kann.                                    |
+| 13   | Muss            | Funktional    | Als Entwickler möchte ich, dass der Spielstand vom Spiel gespeichtert wird, damit man weiss welche Züge der Spieler gemacht hat.                                 |
+| 14   | Muss            | Funktional    | Als Benutzer möchte ich, dass die Webseite online zugänglich ist, damit ich es spielen kann.                                                                     |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: _Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️_.
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| TC-№ | Ausgangslage                                                                          | Eingabe                                                                                       | Erwartete Ausgabe                                                                                                          |
+| ---- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1.1  | Das Backend ist gestartet                                                             | Überprüfung der .NET-Version                                                                  | Die .NET-Version ist 7 oder höher.                                                                                         |
+| 2.1  | Frontend gestartet und im Browser geladen                                             | Überprüfung desQuellcodes und Benutzeroberfläche                                              | Das Frontend wurde mit HTML, CSS und JavaScript erstellt.                                                                  |
+| 3.1  | Eine Verbindung zur Datenbank ist erforderlich                                        | Überprüfung der Datenbankkonfiguration und Verbindungsdetailss                                | MongoDB Atlas wird als zentrale Datenbank verwendet.                                                                       |
+| 4.1  | Das Frontend ist gestartet                                                            | Navigation zwischen den verschiedenen BEreichen der Website                                   | Nur die DOM wird akutalisiert, die URL bleibt unverändert.                                                                 |
+| 5.1  | Der Benutzer ist auf der Website angemeldet                                           | Klick auf den Button "Gruppe/Raum erstellen"                                                  | Eine neue UNO-Spielgruppe oder ein Raum wird erstellt, und der Benutzer erhält die Möglichkeit, andere Spieler einzuladen. |
+| 6.1  | Das Frontend ist gestartet und der Benutzer befindet sich auf der Registrierungsseite | Der Benutzer gibt einen Benutzernamen in das entsprechende Feld ein und speichert die Eingabe | Der Benutzername wird erfolgreich gespeichert und im Spiel angezeigt.                                                      |
+| 7.1  | Der Benutzer befindet sich in einer Gruppe/Raum und das Spiel ist gestartet           | Der Benutzer wählt Karten aus und spielt sie nach den Spielregeln von UNO                     | Der Spielzug wird korrekt ausgeführt, die Kartenanzahl wird aktualisiert, und der nächste Spieler ist an der Reihe.        |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
