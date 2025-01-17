@@ -58,6 +58,14 @@ In diesem Projekt setzen wir die klassische UNO-Spielmechanik in einer Webanwend
 | 5.1  | Der Benutzer ist auf der Website angemeldet                                           | Klick auf den Button "Gruppe/Raum erstellen"                                                  | Eine neue UNO-Spielgruppe oder ein Raum wird erstellt, und der Benutzer erhält die Möglichkeit, andere Spieler einzuladen. |
 | 6.1  | Das Frontend ist gestartet und der Benutzer befindet sich auf der Registrierungsseite | Der Benutzer gibt einen Benutzernamen in das entsprechende Feld ein und speichert die Eingabe | Der Benutzername wird erfolgreich gespeichert und im Spiel angezeigt.                                                      |
 | 7.1  | Der Benutzer befindet sich in einer Gruppe/Raum und das Spiel ist gestartet           | Der Benutzer wählt Karten aus und spielt sie nach den Spielregeln von UNO                     | Der Spielzug wird korrekt ausgeführt, die Kartenanzahl wird aktualisiert, und der nächste Spieler ist an der Reihe.        |
+| 8.1 | Ein laufender MongoDB-Server ist verfügbar | Spielinformationen werden über das Backend gesendet| Daten werden in der MongoDB Datenbank gespeichert |
+| 9.1 | Ein laufendes Backend mit einer Verbindung zur MongoDB | Anfrage von frontend für Spieldaten | Backend liefert angefragte Spieldaten |
+| 10.1 | Spiel wird gestartet | Klick auf "Spiel starten" | Benutzer erhält Karten |
+| 11.1 | Benutzer ist im laufenden Spiel und hat Karten auf der Hand | Benutzer versucht, eine Karte zu legen, die den Regeln entspricht | Karte wird gespielt |
+| 11.2 | Benutzer ist im laufenden Spiel und hat Karten auf der Hand | Benutzer versucht eine Karte zu spielen die nicht den Regeln entspricht | Karte wird nicht gespielt und es gibt eine Fehlermeldung |
+| 12.1 | Spiel ist gestartet | Der erste Spieler legt seine letzte Karte | Spieler wird als Gewinner angezeigt |
+| 13.1 | Spiel ist gestartet | Ein Zug wird abgeschlossen | Der aktuelle Spielstand inklusive aller bisherigen Züge wird in der MongoDB gespeichert |
+| 14.1 | Die Webseite ist vollständig implementiert | Ein Benutzer greift über einen Browser auf die Webseite zu | Die Webseite wird erfolgreich geladen und ist spielbar |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
