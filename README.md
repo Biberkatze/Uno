@@ -77,20 +77,20 @@ In diesem Projekt setzen wir die klassische UNO-Spielmechanik in einer Webanwend
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1  |   24.01.2025    |           |              |               |
-| 2  |   24.01.2025    |           |              |               |
-| 3  |   24.01.2025    |           |              |               |
-| 4  |   24.01.2025	   |           |              |               |
-| 5  |   31.01.2025    |           |              |               |
-| 6  |   31.01.2025    |           |              |               |
-| 7  |   31.01.2025    |           |              |               |
-| 8  |   31.01.2025    |           |              |               |
-| 9  |    21.02.2025   |           |              |               |
-| 10  |   21.02.2025    |           |              |               |
-| 11  |   21.02.2025    |           |              |               |
-| 12  |   28.02.2025    |           |              |               |
-| 13  |   28.02.2025    |           |              |               |
-| 14  |   28.02.2025    |           |              |               |
+| 1  |   24.01.2025    |     Team      |      Festlegen, dass mindestens .NET Version 7.0 oder höher verwendet wird, um die Verwendung einer aktuellen Version sicherzustellen.        |      1 Lektion       |
+| 2  |   24.01.2025    |     Team      |       Planung der Umsetzung des Frontends mit HTML, CSS und JavaScript, um sicherzustellen, dass das Endprodukt eine Webseite ist.        |      1 Lektion         |
+| 3  |   24.01.2025    |     Koch, Sacher      |      Festlegen von MongoDB Atlas als zentrale Datenbank, um den Zugriff aller Teammitglieder zu ermöglichen.        |       2 Lektionen        |
+| 4  |   24.01.2025	   |     Müller      |      Planung der Umsetzung der Webseite als SPA, um geringe Ladezeiten sicherzustellen.        |       1 Lektion        |
+| 5  |   31.01.2025    |     Manojlovic, Tuma      |  Festlegen, dass Benutzer Gruppen/Räume erstellen können, um gemeinsam mit anderen Spielern zu spielen. |       2 Lektionen        |
+| 6  |   31.01.2025    |     Müller      |      Sicherstellen, dass Benutzer sich einen Benutzernamen für das Spiel geben können.        |       1 Lektion        |
+| 7  |   31.01.2025    |     Manojlovc, Müller, Tuma      |      Planung der Integration eines Kartenspiels, das in Gruppen/Räumen gespielt werden kann.        |       2 Lektionen        |
+| 8  |   31.01.2025    |     Koch, Sacher      |      Planung, alle Daten in der MongoDB-Datenbank zu speichern.        |      1 Lektion         |
+| 9  |    21.02.2025   |     Koch, Sacher      |      Sicherstellen, dass das Frontend die Spiel-Daten über das Backend abruft.        |       1 Lektion        |
+| 10  |   21.02.2025    |    Tuma       |       Planung der automatischen Kartenverteilung, wenn das Spiel startet.       |      2 Lektionen         |
+| 11  |   21.02.2025    |    Manojlovic, Tuma       |     Festlegen, dass Benutzer nur Karten gemäss den Spielregeln legen können.         |       2 Lektionen        |
+| 12  |   28.02.2025    |    Manojlovic       |      Definieren, dass der erste Spieler, der keine Karte mehr hat, das Spiel gewinnt.        |       2 Lektionen        |
+| 13  |   28.02.2025    |    Müller       |     Sicherstellen, dass der Spielstand gespeichert wird, um die Züge der Spieler nachzuverfolgen.         |       2 Lektionen        |
+| 14  |   28.02.2025    |    Team      |       Planung, dass die Webseite online zugänglich ist, damit sie jederzeit gespielt werden kann.       |       1 Lektion        |
 
 Total:
 
