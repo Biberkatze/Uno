@@ -33,12 +33,12 @@ In diesem Projekt setzen wir die klassische UNO-Spielmechanik in einer Webanwend
 | 1    | Muss            | Randbedingung | Als ein Entwickler möchte ich, dass mindestens .Net Version 7.0 oder höher verewendet wird, damit eine aktuelle Version vewendet wird.       |
 | 2    | Muss            | Randbedingung | Als ein Enwickler möchte ich, dass das Frontend mit HTML, CSS und Java Script umgesetzt wird, damit das Endprofukt eine Webseite ist.        |
 | 3    | Muss            | Randbedingung | Als ein Entwickler möchte ich, dass als zentrale Datenbank, MongoDB Atlas verwendet wird, damit alle Teammitglieder darauf zugreifen können. |
-| 4    | Muss            | Qualität      | Als ein BEnutzer möchte ich, dass die Webseite als Single Page Application umgesetzt wird, damit die Ladezeit gering ist.                    |
-| 5    | Muss            | Funktional    |                                                                                                                                              |
-| 6    | Muss            | Funktional    |                                                                                                                                              |
-| 7    | Muss            | Funktional    |                                                                                                                                              |
-| 8    | Muss            | Funktional    |                                                                                                                                              |
-| 9    | Muss            | Funktional    |                                                                                                                                              |
+| 4    | Muss            | Qualität      | Als ein Benutzer möchte ich, dass die Webseite als Single Page Application umgesetzt wird, damit die Ladezeit gering ist.                    |
+| 5    | Muss            | Funktional    | Als Benutzer möchte ich, dass ich eine Gruppe/Raum erstellen kann in dem ich mit anderen Spielern spielen kann, damit ich nicht alleine Spiele|
+| 6    | Muss            | Funktional    | Als Benutzer möchte ich, dass ich mir einen Benutzername für das Spiel geben kann, damit ich weiss wer ich bin.                              |
+| 7    | Muss            | Funktional    | Als Benutzer möchte ich, dass ich ein Kartenspiel in der Gruppe/Raum spielen kann, damit ich etwas spielen kann.                             |
+| 8    | Muss            | Funktional    | Als Entwickler möchte ich, dass alle Daten in der MongoDB-Datenbank gespeichert werden.                                                      |
+| 9    | Muss            | Funktional    | Als Entwickler möchte ich, dass das Frontend die Daten für ein Spiel über das Backend holt.                                                  |
 | 10   | Muss            | Funktional    |                                                                                                                                              |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: _Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️_.
