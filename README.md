@@ -11,7 +11,7 @@ Gruppe:
 | Datum      | Version | Zusammenfassung                                                                                                                                 |
 | ---------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 10.01.2025 | 0.0.1   | Heute haben wir eine unsere Projektidee erarbeitet und den Projektantrag ausgefüllt, sowie abgeben und mit der Projektdokumentation angefangen. |
-| 17.01.2025 | 0.2.0   |                                                                                                                                                 |
+| 17.01.2025 | 0.2.0   | Heute haben wir die Informieren- und Planenphase abgeschlossen.                                                                                                                                               |
 | 24.01.2025 | 0.3.0   |                                                                                                                                                 |
 | 31.01.2025 | 0.4.0   |                                                                                                                                                 |
 | 21.02.2025 | 0.5.0   |                                                                                                                                                 |
